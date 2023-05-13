@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Registered Students">dd473f5097822110ca43d6081153afe3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Registered Students</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1014103_studen_0_registered_students</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1014103_studen_0.registered_students_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 12:04:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>35780ce097c22110ca43d6081153af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registered Students</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_app_module_35780ce097c22110ca43d6081153af1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 12:04:54</sys_updated_on>
+        <timeline_page/>
+        <title>Registered Students</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student registration">3d2d5b1497022110ca43d6081153afef</application>
+        <file_path/>
+        <instance_id>90e1cef4db05bfc042b321c40596192a</instance_id>
+        <instance_name>dev83121</instance_name>
+        <name>sys_app_module_35780ce097c22110ca43d6081153af1f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Registered Students">dd473f5097822110ca43d6081153afe3</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Registered Students</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1014103_studen_0_registered_students</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1014103_studen_0.registered_students_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 12:04:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35780ce097c22110ca43d6081153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Registered Students</sys_name><sys_overrides/><sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package><sys_policy/><sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope><sys_update_name>sys_app_module_35780ce097c22110ca43d6081153af1f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-03 12:04:54</sys_updated_on><timeline_page/><title>Registered Students</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>588128366</payload_hash>
+        <record_name>Registered Students</record_name>
+        <reverted_from/>
+        <source>ca2d5b1497022110ca43d6081153aff1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 12:04:54</sys_created_on>
+        <sys_id>75780ce097c22110ca43d6081153af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187470183180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 12:04:54</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bd780ce0b4c2211019af2c5ec1e71b21</update_guid>
+        <update_guid_history>bd780ce0b4c2211019af2c5ec1e71b21:588128366</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Registered Students">62a8802497c22110ca43d6081153af0c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 12:05:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1c0cd6f0397b4556a4996325126f1704</sys_id>
+        <sys_metadata>35780ce097c22110ca43d6081153af1f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registered Students</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_scope_delete display_value="">175f8e40bea047ab91d2651cc48d3db9</sys_scope_delete>
+        <sys_update_name>sys_app_module_35780ce097c22110ca43d6081153af1f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_35780ce097c22110ca43d6081153af1f">75780ce097c22110ca43d6081153af22</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 12:05:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

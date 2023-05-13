@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Student registration Workspace">320144e85f8221102685297faa551831</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 11:32:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fe0144e8de822110c4ae06b20bdeb53f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_ux_page_property_fe0144e8de822110c4ae06b20bdeb53f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 11:32:34</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1014103_studen_0.320144e85f8221102685297faa551831.root.listConfigId</unique_name>
+        <value>881184e897822110ca43d6081153af40</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe0144e8de822110c4ae06b20bdeb53f"/>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1014103_studen_0_registered_students</description>
+        <name>x_1014103_studen_0_registered_students</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:49:47</sys_created_on>
+        <sys_id>a1473f5097822110ca43d6081153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1014103_studen_0_registered_students</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_security_acl_a1473f5097822110ca43d6081153aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:49:47</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student registration">3d2d5b1497022110ca43d6081153afef</application>
+        <file_path/>
+        <instance_id>90e1cef4db05bfc042b321c40596192a</instance_id>
+        <instance_name>dev83121</instance_name>
+        <name>sys_security_acl_a1473f5097822110ca43d6081153aff4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_1014103_studen_0_registered_students</description><name>x_1014103_studen_0_registered_students</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 10:49:47</sys_created_on><sys_id>a1473f5097822110ca43d6081153aff4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1014103_studen_0_registered_students</sys_name><sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package><sys_policy/><sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope><sys_update_name>sys_security_acl_a1473f5097822110ca43d6081153aff4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-03 10:49:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-21419154</payload_hash>
+        <record_name>x_1014103_studen_0_registered_students</record_name>
+        <reverted_from/>
+        <source>ca2d5b1497022110ca43d6081153aff1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:49:47</sys_created_on>
+        <sys_id>e1473f5097822110ca43d6081153aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18746bcc0b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:49:47</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>2d473f507c8221104b989aef55a422f5</update_guid>
+        <update_guid_history>2d473f507c8221104b989aef55a422f5:-21419154</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:51:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2c3b0479e3d5408992f029e7d076ab39</sys_id>
+        <sys_metadata>a1473f5097822110ca43d6081153aff4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1014103_studen_0_registered_students</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_parent display_value="">e1477f5097822110ca43d6081153af03</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_scope_delete display_value="">175f8e40bea047ab91d2651cc48d3db9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a1473f5097822110ca43d6081153aff4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a1473f5097822110ca43d6081153aff4">e1473f5097822110ca43d6081153aff6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:51:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

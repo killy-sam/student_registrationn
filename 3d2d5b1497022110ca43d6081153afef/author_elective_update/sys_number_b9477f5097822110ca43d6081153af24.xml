@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1014103_studen_0_registered_students">x_1014103_studen_0_registered_students</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>STUD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:49:48</sys_created_on>
+        <sys_id>b9477f5097822110ca43d6081153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STUD</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_number_b9477f5097822110ca43d6081153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:49:48</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student registration">3d2d5b1497022110ca43d6081153afef</application>
+        <file_path/>
+        <instance_id>90e1cef4db05bfc042b321c40596192a</instance_id>
+        <instance_name>dev83121</instance_name>
+        <name>sys_number_b9477f5097822110ca43d6081153af24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1014103_studen_0_registered_students">x_1014103_studen_0_registered_students</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>STUD</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 10:49:48</sys_created_on><sys_id>b9477f5097822110ca43d6081153af24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>STUD</sys_name><sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package><sys_policy/><sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope><sys_update_name>sys_number_b9477f5097822110ca43d6081153af24</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-03 10:49:48</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>337266368</payload_hash>
+        <record_name>STUD</record_name>
+        <reverted_from/>
+        <source>ca2d5b1497022110ca43d6081153aff1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:49:48</sys_created_on>
+        <sys_id>75477f5097822110ca43d6081153af2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18746bcc3470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:49:48</sys_updated_on>
+        <type>Number</type>
+        <update_guid>bd477f508e822110257ff7fde0bba62a</update_guid>
+        <update_guid_history>bd477f508e822110257ff7fde0bba62a:337266368</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:51:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>462b8ee5c82d41f8a0906f0d48b86081</sys_id>
+        <sys_metadata>b9477f5097822110ca43d6081153af24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STUD</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_parent display_value="">e217bb5097822110ca43d6081153af54</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_scope_delete display_value="">175f8e40bea047ab91d2651cc48d3db9</sys_scope_delete>
+        <sys_update_name>sys_number_b9477f5097822110ca43d6081153af24</sys_update_name>
+        <sys_update_version display_value="sys_number_b9477f5097822110ca43d6081153af24">75477f5097822110ca43d6081153af2b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:51:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
