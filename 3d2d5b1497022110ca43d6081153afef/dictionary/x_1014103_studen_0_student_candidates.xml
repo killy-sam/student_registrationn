@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a00923d097422110ca43d6081153afda" extends="task" label="Student Candidates" max_length="40" name="x_1014103_studen_0_student_candidates" text_index="true" type="collection">
+        <element choice="3" label="Application Type" mandatory="true" max_length="40" name="application_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Freshman" sequence="0" value="freshman"/>
+                <element inactive_on_update="false" label="Transfer" sequence="1" value="transfer"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element choice="3" label="City" mandatory="true" max_length="40" name="city" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mekele" sequence="0" value="mekele"/>
+                <element inactive_on_update="false" label="Gondar" sequence="1" value="gondar"/>
+                <element inactive_on_update="false" label="Bahir Dar" sequence="2" value="bahir_dar"/>
+                <element inactive_on_update="false" label="Addis Ababa" sequence="3" value="addis_ababa"/>
+                <element inactive_on_update="false" label="Hawassa" sequence="4" value="hawassa"/>
+                <element inactive_on_update="false" label="Adama" sequence="5" value="adama"/>
+            </choice>
+        </element>
+        <element label="City of High School" mandatory="true" max_length="40" name="city_of_high_school" type="string"/>
+        <element choice="3" default="software_engineering" label="Class / Department" mandatory="true" max_length="40" name="class_department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Software Engineering" sequence="0" value="software_engineering"/>
+                <element inactive_on_update="false" label="Electrical Engineering" sequence="1" value="electrical_engineering"/>
+                <element inactive_on_update="false" label="Civil Engineering" sequence="2" value="civil_engineering"/>
+            </choice>
+        </element>
+        <element label="Date of Birth" mandatory="true" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Date of Registration" max_length="40" name="date_of_registration" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element choice="3" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Middle Name" mandatory="true" max_length="40" name="middle_name" type="string"/>
+        <element label="Name of High School" mandatory="true" max_length="40" name="name_of_high_school" type="string"/>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Reviewed by Fulfiller" max_length="40" name="reviewed_by_fulfiller" type="boolean"/>
+        <element label="University Entrance Exam Score" mandatory="true" max_length="40" name="university_entrance_exam_score" type="integer"/>
+        <element label="Year of High School Graduation" mandatory="true" max_length="40" name="year_of_high_school_graduation" type="integer"/>
+    </element>
+</database>

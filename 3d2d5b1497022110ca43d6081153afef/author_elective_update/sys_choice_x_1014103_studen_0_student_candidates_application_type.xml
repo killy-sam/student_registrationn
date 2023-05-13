@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="application_type" table="x_1014103_studen_0_student_candidates" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>application_type</element>
+            <name>x_1014103_studen_0_student_candidates</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 10:18:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>application_type</sys_name>
+            <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+            <sys_update_name>sys_choice_x_1014103_studen_0_student_candidates_application_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 10:18:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Freshman</label>
+            <language>en</language>
+            <name>x_1014103_studen_0_student_candidates</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 10:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e120fb9897422110ca43d6081153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 10:18:40</sys_updated_on>
+            <value>freshman</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer</label>
+            <language>en</language>
+            <name>x_1014103_studen_0_student_candidates</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 10:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a120fb9897422110ca43d6081153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 10:18:40</sys_updated_on>
+            <value>transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_1014103_studen_0_student_candidates</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 10:18:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65203f9897422110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 10:18:40</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

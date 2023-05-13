@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>362d9f9097022110ca43d6081153aff1</logo>
+        <menu/>
+        <name>Student registration</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1014103_studen_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Mini project to practice citizen developer course</short_description>
+        <source>x_1014103_studen_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 08:55:40</sys_created_on>
+        <sys_id>3d2d5b1497022110ca43d6081153afef</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 08:55:44</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d2d5b1497022110ca43d6081153afef"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icons8-student-registration-100.png</file_name>
+        <hash>a86b1e3a464a80ecd71d4b183b1cabbd78576a8a2fbd5ac0c2cef422827e0201</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2881</size_bytes>
+        <size_compressed>2904</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 08:55:44</sys_created_on>
+        <sys_id>362d9f9097022110ca43d6081153aff1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-03 08:55:45</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>3d2d5b1497022110ca43d6081153afef</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icons8-student-registration-100.png" sys_id="362d9f9097022110ca43d6081153aff1">362d9f9097022110ca43d6081153aff1</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 08:55:44</sys_created_on>
+        <sys_id>762d9f9097022110ca43d6081153aff1</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AUELvvSJUE5HDQoaCgAAAA1JSERSAAAAZAAAAGQIBgAAAHDilVQAAAAJcEhZcwAACxMAAAsTAQCanBgAAArzSURBVHic7V0JjF1VGf76aKd0phQGmCKlNjDiYEuBoFRQSoSIYZEJi2gLNlBQ60JcAi2oVSwgoiS4JDq1FgirsSiLoRIQ40aRorUoEoqQUkqprYXS2tJhhmnnmZ98L3k5+c+55767nHvnvS85yWTuO+t/z/nX81+ghRZaaKGFQBjN0kJAdAC4HMAzAIZYnuH/5FkLOaIXwDoAVUt5BcDHWxTJHocAuMNBCLM8CODQFmHSx2gAXwawIwYxamUXgEUA2lqESQcnAnjaseDLARzHstzxu6fZVgsNohPAjwDssSzwRgAXWfjLS5Y6wzzyulpU8ccoLvQWy6IOkVD7ONpo5zE1aGnjdR6BlRZh3OgB8DvHsbOKR5MvjgbwuKO9xwBMbxEl/hu9LcEbXdtxrybYcU2F3gid4h4AE1PoZ38AS8hHWrpLAzrF8wBORfo4iRp9S3fx1Cn6eXyNRXYYwzHsbHbdZaaHTnFYzrv0V47x/BvAhzECcQCAmx3n98sAzg04vnM5BpvucjPnMCIgRr7/lkDCaY+Q9LYCmIcSQ46eh1PUKfJClO7yB+pLpWPaOzPQKfJClO7SXxamL2/8U463686S2ZG6OGbbfFYXdJe/ff5+F8Buy8BfBHAayosPAXjOMrc9VDiLwAffxpkO62qNaY9H+TEugumL9fm8kAM8KELTLux2ToHpr4zQ9CcjAMN7zaHlXgVgL4xcVCgC7wgtuEwF8OeIt2MKmgdTOGfbevwJwHuy6LhCig9YOt5k8d41k8V6g2Vt3kz7xHgXKW0zK9wxkswKCbBvhMt5ZdLdIhS9gkqQ1sGzNBYWAR0FCo6bybWxKZRXNMJbDnHsircAXJOxeRxc4GMoSs4H0AfgEUpvawFsBvA/ZXzb+Wwtf/sw686nEfGYHIg3lmv0lmUN/8g19sJxjgCDfwI4NiPJbSqAuQB+CuAfDiUzjbKbfSxmn9J3FjiWa6aNQQyu7/Np5EWLgnddyrabdjLDJQz9rAYuG/gynEUlMC20ce2GlD5lrZ3YR6m005eSnnzpdAA/d/CmagFKP8d4eorSkazhG0pfkVYMTQv9VsLBTGQbG2MuzDYAKwDcBeAGAF/gGzyTExQzeDeD6jr5dw+fzeQOvIx172Jb22KOQXbv1SkYRa9V2n7Sp2K3MuhhTiwuJgH4CWXxqIkPccGuIyPP0pXbzT6+Td+HdpyYRebwYwAHN9Dflywvm6gUXjhFMaIJUT4TYxCzaEZxTVIiCG8BcDaACQiHCRzDrRyTa8y7ODdffFZxXQ9yjWNhjtKQKD0Xe9StOGxde2hu6C2og6eNY1vuUPJe89Ql5iptDHNtG8IXLSLj7Ih6+yn1RCZfmnNUSRpH21KLPiFzdOECRXRv9Oh3LmztvD8vZr0yx9BOj0mQj1n4kmjpyIIgtXOwN0a9qDeqyIgzn16LE2thVgMxiaLtlGYlyEctFnEReVOzYEaJg3JOfrLBCZQF+3nM53wLr/lBmgPRCHKbhafMDkSQsXWKYVYGz6j5zLbwDDHHI2uCiO/jJstOmZOQIBVKYadR51lE3eAhAH8BsIaWXJujrL4M8LdrWPchtiVtfpp9HOYpvrrmM8diCP0+jaapK0waQcCwH40ocz0JIgtxJIBPMXb2qUD2rX72LeLtpRyTSSTbfOZaiHFj2oTwIQhoejCfiyK0wDKBHmZaeMTiy6gWpGynH0XG+m4LQRZYFMfrsyKGD0FAo6HPJNcWYKGrDRbfsctxiLwJcqDyu4UpL8AmAE/wOttNfFMvpowvd82nUYvuZnxYjakfVPf/afxtL4+Wy9nWPWx7U8pjTkXPaMQ/ohFEcGUCz10feckJOYvH0tcH2HdfAk+lRJWgaATxIYqIhr/n23RKQUNMx3NsCznWKNO8zBkhCWJz1HTT4WIb+AU8VsqGTo7dNq+VeRpMfXfI/hFXm6WUHVVHeTni5Eh1+/rskN94nLNlRzWiiP+kEAQ5SfmNRG+8l5pqZ8lN7zVM51xGcW5LlHmfGIIgZlaFxcZzMU80C24z5i7xA8EJYgaCiRjZLPigMXcxwQQniHlHIhfmVhBMVEwumaJDIYhow/Uw5XRJW9Es2Ftx2AUniHl1WGKxmgU9xtxF9A9OkMeM5xdi5KBCc87XAdzLLEKv0zM4qBzXT2bhAzEDok2CvMP4zTWK5lrkpAA+mMzwU9utqGpEwporlXVKBVOVDkUGN00mpl9AYmHLiANoZLRdfY5TBkjU1Ox1h1vCKrcqMak/U353O71vZcEsRyqNJEWCtc9JY4CuPFK/NH4rGuwLDhdppl60FHKz9Dnmup2R8+KHn0FLxRiWLv5Pnt3t8IIOM4g8EX9xhe3LztEkjnWOWFgREYuGcY5rzWvo2IpzeUd+e4kjDcd9SeKZNzsIIs80iAS2zFLnogLujActO/orCT9/MZoeSi1o4+5GdkpXxDWzVyI0ckk/8WujjrhNi4TFlnmlmQ5khuWS0o1xqfs3D2b114i3aIriDjUltJAMvGqU1RkptZPYttmfhJ164bIYEoRcMXPhPuP3EvtUBNH2VWVnZGlh6GLa2/o+1/umdDLdsPdzsFIeiHkMnarcPgqdwKxP4RlxjinzpYzjT+lXohsjYZoD6jXOg41nIua5MIrSSn2d6wNr4APGeISBIweCaOFSu3zSkpjKYL2370hFSYx7BG5nzHAI3GCMZU0D0lQSgnQoTP6rUZVWOcwg3zCeCfP3kc03hQgqM1BRbFOiZyBHgtQugZoBEk4xeJFRYQsp267oJmJY9MF8S5t54gRlp44LQJB2hS04TUyHKsa1BVR06v+3m/YuH4xXJJu8d8nXjP7FHIIABBH8wmgj8iLoD40K28gvTONhEoa2M2dn1r1G/2J/CkWQeUYbYt1w4kBu6aqlSM6Od8YcxL5KliGJ2sgL5icqRIsORZDjG0mxoaWDqBXhCUiBoe3JMXPpVqNvm+mnmnLxCY5Y5yuVrFA6eCJBhpy9GGFe397jOXkYTb7YFpAgY5UTxwtHGCmF3kghy+bJgSLIBwpMEBmbN86g3eUlZrHOwvk1mIPhcUuBjyyRQINikiIGP0sZPSv8y+jv/Q2247PgcXUi+epQcJyjTG5xhv0tK7DYa7rEg0GLIP98Rn1dpXjuQhFkWagrcVHoUPzPQ0zjl0WGUNNSHcJ00qF87KZQHy04WrHtDFCYSBOjlM9qSEBC3gT5nFF/fREDC89QgrYHeLcvTVxt9PFcAPP7f4z6knyhkLjEkg7v2oQRIDW08UKNuaBiNM2LIN9UEmsWOjj9Uku6ipVMBJDkWDQtBLXSH9Ou1ShBjlJcuKlnC8oCn7DEM+1mBtM4n6ybxoTItmSWtbIxhyCHF5RU46W5Jj4jIi5sBf0bJ9NPPo7ncw//t4hhSjZCbFYyrq7OKABD2vy7Moag36tqBJ3UFaoplmEGhksOl+8oz59P+cbwUZaYZ/E3lRZnOr4wEKesMj4HXrEElPfTmZbExdzB+APt6H1gJHyfq0Le8lsPfmDynUcBfMTS7hhHLPJG+m/i2NfaqWeYom09MdL88kIhMJnS2FK+9Rv4Jg7SoruKd+VnMeVHFORt/Z7jS9Y76AOfR09fF0XoNlptjyfhljk+N1uTqEq/M/LE2Y43O0nZXEYGXhRMYHinz9ccosqb3BVlTo9bGExkzFlUhiOtrKc5pJHPWrSAaIiVWFzMomCKk0uiMOXtF54lgRMiAYo/Q0zooj81ZCj8Pz9OA2QpAoWMAAAAAElFTkSuQmCCYeX3eUELAAA=</data>
+        <length>3860</length>
+        <position>1</position>
+        <sys_attachment display_value="icons8-student-registration-100.png" sys_id="362d9f9097022110ca43d6081153aff1">362d9f9097022110ca43d6081153aff1</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 08:55:44</sys_created_on>
+        <sys_id>f62d9f9097022110ca43d6081153aff1</sys_id>
+    </sys_attachment_doc>
+</record_update>

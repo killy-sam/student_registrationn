@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">3e0144e895822110269e792bdf304e31</canvas>
+        <component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"configVersion":"22.1.7","chartVariation":"stacked","yAxisHidden":false,"yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"xAxisTruncationType":"end","yAxisStyle":"clean","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Student Candidates","sourceType":"table","tableOrViewName":"x_1014103_studen_0_student_candidates","id":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfc3R1ZGVudF9jYW5kaWRhdGVzMTY4MDUzMDA2NTE2MQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Student Candidates","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfc3R1ZGVudF9jYW5kaWRhdGVzMTY4MDUzMDA2NTE2MQ==","id":"ZEdGaWJHVjRYekV3TVRReE1ETmZjM1IxWkdWdVh6QmZjM1IxWkdWdWRGOWpZVzVrYVdSaGRHVnpNVFk0TURVek1EQTJOVEUyTVE9PTE2ODA1MzAwNjY2ODk=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfc3R1ZGVudF9jYW5kaWRhdGVzMTY4MDUzMDA2NTE2MQ==","groupByField":"class_department","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false},{"groupBy":[{"dataSource":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfc3R1ZGVudF9jYW5kaWRhdGVzMTY4MDUzMDA2NTE2MQ==","groupByField":"gender","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 13:56:39</sys_created_on>
+        <sys_id>7a02a02c97c22110ca43d6081153af15</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>par_dashboard_widget_7a02a02c97c22110ca43d6081153af15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 14:08:25</sys_updated_on>
+        <visualization/>
+        <w>6</w>
+        <x>0</x>
+        <y>30</y>
+    </par_dashboard_widget>
+</record_update>

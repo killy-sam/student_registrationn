@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ca1108e897822110ca43d6081153afec" sys_domain="global" table="x_1014103_studen_0_student_candidates" version="3" view="Workspace-Student-registration-Workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>22abcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>middle_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>e6abcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>6aabcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>eaabcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>7eabcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>feabcd0597022110ca43d6081153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_department</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>72abcd0597022110ca43d6081153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 06:15:28</sys_created_on>
+            <sys_id>f2abcd0597022110ca43d6081153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1014103_studen_0_student_candidates" sys_domain="global" view="3e0144e8ff822110c4a361d10454323f">ca1108e897822110ca43d6081153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 06:15:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1014103_studen_0_student_candidates</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 11:32:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca1108e897822110ca43d6081153afec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1014103_studen_0_student_candidates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+            <sys_update_name>sys_ui_section_ca1108e897822110ca43d6081153afec</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 11:32:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Student registration Workspace 0" name="Workspace-Student-registration-Workspace-0">3e0144e8ff822110c4a361d10454323f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

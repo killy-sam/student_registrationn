@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Education History" section_id="c7cd086897c22110ca43d6081153af56" sys_domain="global" table="x_1014103_studen_0_registered_students" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_high_school</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>93cd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city_of_high_school</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>17cd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>year_of_high_school_graduation</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>97cd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>1bcd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>university_entrance_exam_score</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>9bcd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>my_document</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>1fcd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:13</sys_created_on>
+            <sys_id>9fcd086897c22110ca43d6081153af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education History" display_value="Education History" name="x_1014103_studen_0_registered_students" sys_domain="global" view="Default view">c7cd086897c22110ca43d6081153af56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Education History</caption>
+            <header>false</header>
+            <name>x_1014103_studen_0_registered_students</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:28:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7cd086897c22110ca43d6081153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1014103_studen_0_registered_students</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+            <sys_update_name>sys_ui_section_c7cd086897c22110ca43d6081153af56</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-03 12:28:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

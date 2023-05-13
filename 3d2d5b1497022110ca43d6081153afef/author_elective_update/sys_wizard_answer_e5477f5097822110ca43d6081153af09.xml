@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Registered Students</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Registered Students</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c4598f86c51021108c8b506e733c4c9f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:49:48</sys_created_on>
+        <sys_id>e5477f5097822110ca43d6081153af09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registered Students</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_wizard_answer_e5477f5097822110ca43d6081153af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:49:48</sys_updated_on>
+        <table/>
+        <target_url>x_1014103_studen_0_registered_students.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student registration">3d2d5b1497022110ca43d6081153afef</application>
+        <file_path/>
+        <instance_id>90e1cef4db05bfc042b321c40596192a</instance_id>
+        <instance_name>dev83121</instance_name>
+        <name>sys_wizard_answer_e5477f5097822110ca43d6081153af09</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Registered Students</answer><button_label/><dependent_value/><element/><name>Registered Students</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">c4598f86c51021108c8b506e733c4c9f</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-03 10:49:48</sys_created_on><sys_id>e5477f5097822110ca43d6081153af09</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Registered Students</sys_name><sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package><sys_policy/><sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope><sys_update_name>sys_wizard_answer_e5477f5097822110ca43d6081153af09</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-03 10:49:48</sys_updated_on><table/><target_url>x_1014103_studen_0_registered_students.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1433084275</payload_hash>
+        <record_name>Registered Students</record_name>
+        <reverted_from/>
+        <source>a627dfe197212110ca43d6081153af6a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-13 09:10:31</sys_created_on>
+        <sys_id>6787f39097822110ca43d6081153af91</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>186da3c4f580000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>2787f390b1822110d5de44ec72af6591</update_guid>
+        <update_guid_history>2787f390b1822110d5de44ec72af6591:1433084275</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 10:51:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>78cb7aeff8724384a2bf4a0bbf2fefc4</sys_id>
+        <sys_metadata>e5477f5097822110ca43d6081153af09</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registered Students</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_parent display_value="Task">c4598f86c51021108c8b506e733c4c9f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_scope_delete display_value="">175f8e40bea047ab91d2651cc48d3db9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_e5477f5097822110ca43d6081153af09</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_e5477f5097822110ca43d6081153af09">6787f39097822110ca43d6081153af91</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 10:51:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

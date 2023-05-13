@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_of_registration" label="Date of Registration" language="en" table="x_1014103_studen_0_registered_students">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_of_registration</element>
+            <help/>
+            <hint/>
+            <label>Date of Registration</label>
+            <language>en</language>
+            <name>x_1014103_studen_0_registered_students</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-03 12:18:10</sys_created_on>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Date of Registration</sys_name>
+            <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+            <sys_update_name>sys_documentation_x_1014103_studen_0_registered_students_date_of_registration_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 06:53:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

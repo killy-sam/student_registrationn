@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">3e0144e895822110269e792bdf304e31</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"22.1.7","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Registered Students","sourceType":"table","tableOrViewName":"x_1014103_studen_0_registered_students","filterQuery":"gender=female","id":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfcmVnaXN0ZXJlZF9zdHVkZW50czE2ODA1MjUyNzg5ODg=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Female Students Enrolled for Class","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzEwMTQxMDNfc3R1ZGVuXzBfcmVnaXN0ZXJlZF9zdHVkZW50czE2ODA1MjUyNzg5ODg=","id":"ZEdGaWJHVjRYekV3TVRReE1ETmZjM1IxWkdWdVh6QmZjbVZuYVhOMFpYSmxaRjl6ZEhWa1pXNTBjekUyT0RBMU1qVXlOemc1T0RnPTE2ODA1MjUyNzkzNDQ=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-03 11:32:30</sys_created_on>
+        <sys_id>f20144e8ed82211063594142a6c12f3f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>par_dashboard_widget_f20144e8ed82211063594142a6c12f3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-03 13:50:50</sys_updated_on>
+        <visualization/>
+        <w>3</w>
+        <x>9</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Candidate Students Information">b5aee43897022110ca43d6081153af10</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 09:46:40</sys_created_on>
+        <sys_id>e262747c97022110ca43d6081153af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Candidate Students Information</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_e262747c97022110ca43d6081153af9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 09:46:40</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student registration">3d2d5b1497022110ca43d6081153afef</application>
+        <file_path/>
+        <instance_id>90e1cef4db05bfc042b321c40596192a</instance_id>
+        <instance_name>dev83121</instance_name>
+        <name>sc_cat_item_catalog_e262747c97022110ca43d6081153af9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Candidate Students Information">b5aee43897022110ca43d6081153af10</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-04 09:46:40</sys_created_on><sys_id>e262747c97022110ca43d6081153af9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Candidate Students Information</sys_name><sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package><sys_policy/><sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope><sys_update_name>sc_cat_item_catalog_e262747c97022110ca43d6081153af9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-04 09:46:40</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1404091009</payload_hash>
+        <record_name>Service Catalog.Candidate Students Information</record_name>
+        <reverted_from/>
+        <source>ca2d5b1497022110ca43d6081153aff1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 09:46:40</sys_created_on>
+        <sys_id>ae62747c97022110ca43d6081153af9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1874ba951f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 09:46:40</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2662747c7a022110eac2d332d5f6959d</update_guid>
+        <update_guid_history>2662747c7a022110eac2d332d5f6959d:-1404091009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Candidate Students Information">6f1330bc97022110ca43d6081153af35</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 09:49:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>40d7491bfeb44b40982fc0784b48e4e4</sys_id>
+        <sys_metadata>e262747c97022110ca43d6081153af9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Candidate Students Information</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_parent display_value="Candidate Students Information">b5aee43897022110ca43d6081153af10</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_scope_delete display_value="">175f8e40bea047ab91d2651cc48d3db9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_e262747c97022110ca43d6081153af9b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_e262747c97022110ca43d6081153af9b">ae62747c97022110ca43d6081153af9d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 09:49:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
