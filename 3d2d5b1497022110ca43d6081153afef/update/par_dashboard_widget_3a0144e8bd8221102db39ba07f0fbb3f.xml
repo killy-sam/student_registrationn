@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">3e0144e895822110269e792bdf304e31</canvas>
-        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component display_value="now-heading">3a64f550256090d9578ede76158e899c</component>
         <component_props>{"variant":"header-tertiary","label":"Students Count","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
         <h>3</h>
         <name/>
@@ -9,16 +9,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-03 11:32:30</sys_created_on>
         <sys_id>3a0144e8bd8221102db39ba07f0fbb3f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
         <sys_policy/>
         <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
         <sys_update_name>par_dashboard_widget_3a0144e8bd8221102db39ba07f0fbb3f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-03 11:50:31</sys_updated_on>
+        <sys_updated_on>2023-05-15 05:59:38</sys_updated_on>
         <visualization/>
-        <w>12</w>
+        <w>48</w>
         <x>0</x>
         <y>0</y>
     </par_dashboard_widget>

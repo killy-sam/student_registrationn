@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE4</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-13 13:20:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9e49da5d2fbee1107df1a85df699b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE4</sys_name>
+        <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
+        <sys_update_name>sys_template_9e49da5d2fbee1107df1a85df699b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-13 13:20:58</sys_updated_on>
+        <table>x_1014103_studen_0_student_candidates</table>
+        <template>application_type=freshman^approval=requested^city=addis_ababa^city_of_high_school=Jimma^class_department=electrical_engineering^date_of_birth=2023-05-16^email=clintontilahun@gmail.com^first_name=Jenet^gender=male^last_name=Jackson^middle_name=jos^name_of_high_school=Gondar^phone_number=+49 9674 323489^university_entrance_exam_score=434^year_of_high_school_graduation=2,010^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

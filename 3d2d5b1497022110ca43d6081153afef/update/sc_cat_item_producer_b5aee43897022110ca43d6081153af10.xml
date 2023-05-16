@@ -24,14 +24,14 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
-        <mandatory_attachment>true</mandatory_attachment>
+        <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>Candidate Students Information</name>
-        <no_attachment_v2>false</no_attachment_v2>
+        <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
         <no_delivery_time_v2>false</no_delivery_time_v2>
@@ -87,14 +87,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-04 09:30:13</sys_created_on>
         <sys_id>b5aee43897022110ca43d6081153af10</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Candidate Students Information</sys_name>
         <sys_package display_value="Student registration" source="x_1014103_studen_0">3d2d5b1497022110ca43d6081153afef</sys_package>
         <sys_policy/>
         <sys_scope display_value="Student registration">3d2d5b1497022110ca43d6081153afef</sys_scope>
         <sys_update_name>sc_cat_item_producer_b5aee43897022110ca43d6081153af10</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-04 10:16:18</sys_updated_on>
+        <sys_updated_on>2023-05-13 15:10:22</sys_updated_on>
         <table_name>x_1014103_studen_0_student_candidates</table_name>
         <taxonomy_topic/>
         <template/>
